@@ -36,3 +36,4 @@ output_dir = 'grayscaled_images'
 
 # Convert the images
 convert_to_black_and_white(input_dir, output_dir)
+
