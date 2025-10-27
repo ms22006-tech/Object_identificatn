@@ -33,6 +33,21 @@ The evaluation script generates the following key visualizations:
 confusion_matrix_plot.png
 
 class_accuracy_plot.png
+**Setup and Execution**
+1. Open https://colab.research.google.com/
+2. Upload codes colorful_images.py, grayscaling.py, training_model.py and !python testing_code.py
+3. Now serial wise run the code
+   !python colorful_images.py
+
+   !python grayscaling.py
+
+   !python training_model.py
+
+   !python testing_code.py
+4. Visual Results
+   The evaluation script generates the following key visualizations:
+   confusion_matrix_plot.png
+   class_accuracy_plot.png
 
 
    
