@@ -98,3 +98,4 @@ labels_file = 'colorful_labels/labels.csv'
 generate_and_save_images(2500, output_dir, labels_file)
 
 print("Image generation complete and labels saved to CSV!")
+
