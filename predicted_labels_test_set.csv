@@ -1,0 +1,501 @@
+filename,predicted_shapes
+image_1448.png,pentagon
+image_1115.png,square
+image_1065.png,hexagon
+image_2288.png,triangle
+image_1538.png,square
+image_669.png,triangle
+image_1584.png,pentagon
+image_2405.png,circle
+image_498.png,triangle
+image_2481.png,triangle
+image_472.png,triangle
+image_247.png,"square, triangle"
+image_924.png,pentagon
+image_1132.png,circle
+image_671.png,triangle
+image_917.png,square
+image_1415.png,square
+image_1607.png,hexagon
+image_403.png,"circle, hexagon, pentagon, square"
+image_1104.png,triangle
+image_2073.png,hexagon
+image_720.png,hexagon
+image_2012.png,pentagon
+image_2437.png,pentagon
+image_197.png,"square, triangle"
+image_892.png,square
+image_1265.png,hexagon
+image_1035.png,circle
+image_1326.png,square
+image_510.png,circle
+image_1428.png,circle
+image_195.png,"hexagon, square"
+image_1180.png,pentagon
+image_2033.png,pentagon
+image_933.png,hexagon
+image_1125.png,triangle
+image_1823.png,circle
+image_1367.png,pentagon
+image_1993.png,triangle
+image_1259.png,circle
+image_2275.png,hexagon
+image_1274.png,square
+image_1937.png,hexagon
+image_1267.png,pentagon
+image_773.png,hexagon
+image_1609.png,pentagon
+image_1312.png,hexagon
+image_135.png,"circle, hexagon, pentagon"
+image_1856.png,triangle
+image_2400.png,square
+image_421.png,"hexagon, triangle"
+image_1756.png,square
+image_708.png,square
+image_94.png,"circle, hexagon, pentagon"
+image_57.png,pentagon
+image_219.png,"circle, square"
+image_1037.png,square
+image_1294.png,circle
+image_1953.png,circle
+image_1450.png,hexagon
+image_2360.png,circle
+image_1466.png,hexagon
+image_299.png,circle
+image_2178.png,circle
+image_179.png,"circle, pentagon"
+image_1188.png,hexagon
+image_1473.png,square
+image_189.png,"circle, pentagon, triangle"
+image_573.png,hexagon
+image_434.png,"circle, pentagon"
+image_519.png,triangle
+image_2347.png,hexagon
+image_2272.png,pentagon
+image_1085.png,hexagon
+image_1289.png,hexagon
+image_1124.png,square
+image_1342.png,pentagon
+image_2257.png,circle
+image_1491.png,circle
+image_44.png,"circle, square"
+image_1879.png,triangle
+image_451.png,"circle, hexagon, triangle"
+image_2046.png,triangle
+image_45.png,hexagon
+image_1284.png,pentagon
+image_1968.png,triangle
+image_2091.png,triangle
+image_255.png,"circle, pentagon"
+image_1946.png,square
+image_1875.png,hexagon
+image_1863.png,pentagon
+image_565.png,circle
+image_213.png,hexagon
+image_867.png,triangle
+image_743.png,circle
+image_1252.png,square
+image_1048.png,triangle
+image_1737.png,hexagon
+image_1018.png,triangle
+image_171.png,"circle, hexagon, pentagon"
+image_2097.png,pentagon
+image_2488.png,hexagon
+image_2218.png,pentagon
+image_1798.png,triangle
+image_545.png,triangle
+image_1222.png,circle
+image_464.png,"pentagon, square"
+image_989.png,pentagon
+image_1322.png,pentagon
+image_603.png,circle
+image_1337.png,square
+image_2340.png,square
+image_1261.png,hexagon
+image_2115.png,hexagon
+image_808.png,triangle
+image_887.png,hexagon
+image_1583.png,circle
+image_1615.png,hexagon
+image_1838.png,circle
+image_1874.png,triangle
+image_283.png,"circle, pentagon"
+image_211.png,"circle, pentagon"
+image_112.png,square
+image_1921.png,square
+image_2166.png,triangle
+image_458.png,pentagon
+image_820.png,pentagon
+image_2185.png,hexagon
+image_1656.png,triangle
+image_253.png,"square, triangle"
+image_252.png,"circle, pentagon, triangle"
+image_1540.png,triangle
+image_2130.png,hexagon
+image_1927.png,square
+image_1019.png,circle
+image_423.png,"circle, square"
+image_1176.png,pentagon
+image_621.png,hexagon
+image_174.png,pentagon
+image_487.png,"hexagon, triangle"
+image_1986.png,square
+image_1081.png,circle
+image_1118.png,square
+image_1358.png,circle
+image_1042.png,hexagon
+image_1091.png,triangle
+image_1356.png,pentagon
+image_212.png,"circle, square"
+image_614.png,circle
+image_2150.png,hexagon
+image_465.png,"circle, square"
+image_1468.png,hexagon
+image_555.png,square
+image_908.png,circle
+image_994.png,square
+image_1969.png,pentagon
+image_1789.png,pentagon
+image_1599.png,circle
+image_97.png,"pentagon, triangle"
+image_1965.png,pentagon
+image_1365.png,circle
+image_1925.png,pentagon
+image_612.png,hexagon
+image_446.png,"circle, hexagon, pentagon"
+image_238.png,circle
+image_2311.png,pentagon
+image_874.png,triangle
+image_2498.png,triangle
+image_2055.png,pentagon
+image_1674.png,circle
+image_2123.png,hexagon
+image_840.png,square
+image_582.png,pentagon
+image_1282.png,triangle
+image_980.png,square
+image_791.png,pentagon
+image_842.png,pentagon
+image_483.png,"pentagon, square"
+image_1911.png,circle
+image_622.png,pentagon
+image_1503.png,hexagon
+image_333.png,"circle, hexagon, pentagon"
+image_479.png,circle
+image_1495.png,hexagon
+image_508.png,pentagon
+image_1451.png,pentagon
+image_2424.png,circle
+image_644.png,pentagon
+image_481.png,"circle, pentagon"
+image_1456.png,pentagon
+image_2395.png,hexagon
+image_1012.png,square
+image_765.png,circle
+image_1290.png,triangle
+image_1224.png,circle
+image_1334.png,square
+image_618.png,triangle
+image_522.png,triangle
+image_583.png,hexagon
+image_1059.png,triangle
+image_1407.png,square
+image_297.png,"circle, hexagon, pentagon"
+image_2443.png,circle
+image_1062.png,triangle
+image_858.png,square
+image_1693.png,triangle
+image_408.png,"circle, square"
+image_1079.png,pentagon
+image_1084.png,triangle
+image_169.png,"circle, hexagon"
+image_2181.png,circle
+image_240.png,"hexagon, pentagon"
+image_2306.png,circle
+image_1998.png,pentagon
+image_1902.png,hexagon
+image_1051.png,triangle
+image_1913.png,square
+image_1868.png,square
+image_2096.png,pentagon
+image_523.png,square
+image_1738.png,pentagon
+image_2473.png,circle
+image_1848.png,square
+image_2369.png,square
+image_2250.png,square
+image_1884.png,square
+image_1512.png,square
+image_1460.png,circle
+image_1939.png,pentagon
+image_1724.png,pentagon
+image_2026.png,triangle
+image_1608.png,circle
+image_1978.png,hexagon
+image_509.png,circle
+image_633.png,square
+image_916.png,triangle
+image_260.png,"circle, hexagon"
+image_1396.png,pentagon
+image_2296.png,hexagon
+image_2322.png,square
+image_803.png,hexagon
+image_1936.png,circle
+image_1197.png,hexagon
+image_1945.png,circle
+image_757.png,hexagon
+image_802.png,triangle
+image_234.png,"circle, triangle"
+image_1515.png,square
+image_941.png,circle
+image_999.png,circle
+image_1103.png,pentagon
+image_1464.png,pentagon
+image_1877.png,hexagon
+image_1226.png,hexagon
+image_325.png,"pentagon, triangle"
+image_1764.png,pentagon
+image_1954.png,square
+image_1378.png,triangle
+image_101.png,"circle, hexagon"
+image_2482.png,pentagon
+image_1341.png,triangle
+image_388.png,circle
+image_1955.png,triangle
+image_180.png,"circle, triangle"
+image_1695.png,hexagon
+image_1663.png,hexagon
+image_1305.png,pentagon
+image_928.png,circle
+image_1431.png,triangle
+image_2269.png,square
+image_142.png,pentagon
+image_369.png,"pentagon, triangle"
+image_2446.png,square
+image_1086.png,pentagon
+image_368.png,"circle, hexagon"
+image_1675.png,pentagon
+image_1045.png,triangle
+image_319.png,triangle
+image_1539.png,square
+image_248.png,pentagon
+image_322.png,square
+image_1834.png,triangle
+image_1840.png,hexagon
+image_1000.png,square
+image_943.png,triangle
+image_1773.png,pentagon
+image_30.png,"pentagon, triangle"
+image_1300.png,pentagon
+image_1994.png,square
+image_1915.png,pentagon
+image_696.png,hexagon
+image_2471.png,square
+image_2029.png,triangle
+image_1601.png,triangle
+image_2330.png,hexagon
+image_1232.png,square
+image_2174.png,triangle
+image_1916.png,pentagon
+image_1730.png,hexagon
+image_1707.png,hexagon
+image_1704.png,pentagon
+image_756.png,circle
+image_1331.png,circle
+image_354.png,"hexagon, triangle"
+image_209.png,"hexagon, square"
+image_2145.png,pentagon
+image_904.png,pentagon
+image_953.png,pentagon
+image_1338.png,circle
+image_1552.png,triangle
+image_1568.png,hexagon
+image_1944.png,pentagon
+image_486.png,"circle, square"
+image_1630.png,square
+image_2040.png,square
+image_200.png,"pentagon, square"
+image_230.png,"circle, pentagon"
+image_811.png,pentagon
+image_788.png,triangle
+image_411.png,"square, triangle"
+image_630.png,circle
+image_1511.png,triangle
+image_663.png,pentagon
+image_2143.png,triangle
+image_1919.png,circle
+image_2335.png,square
+image_1270.png,triangle
+image_70.png,"circle, square"
+image_444.png,"circle, triangle"
+image_2148.png,circle
+image_2242.png,hexagon
+image_1585.png,pentagon
+image_232.png,"hexagon, square, triangle"
+image_441.png,"circle, hexagon"
+image_1628.png,hexagon
+image_1323.png,triangle
+image_1279.png,pentagon
+image_818.png,circle
+image_600.png,square
+image_1057.png,pentagon
+image_415.png,"circle, hexagon"
+image_680.png,hexagon
+image_1519.png,hexagon
+image_1117.png,circle
+image_280.png,square
+image_1386.png,triangle
+image_409.png,"circle, triangle"
+image_1092.png,circle
+image_2283.png,square
+image_1217.png,square
+image_2079.png,hexagon
+image_499.png,triangle
+image_1709.png,triangle
+image_2027.png,square
+image_790.png,hexagon
+image_1071.png,hexagon
+image_2266.png,hexagon
+image_436.png,"square, triangle"
+image_2044.png,pentagon
+image_1880.png,triangle
+image_783.png,circle
+image_1477.png,square
+image_1832.png,pentagon
+image_1837.png,triangle
+image_150.png,triangle
+image_1195.png,square
+image_2452.png,hexagon
+image_1242.png,hexagon
+image_1056.png,pentagon
+image_1770.png,circle
+image_1690.png,hexagon
+image_2094.png,circle
+image_2193.png,pentagon
+image_1930.png,hexagon
+image_164.png,"pentagon, square"
+image_439.png,pentagon
+image_1026.png,hexagon
+image_1383.png,pentagon
+image_1979.png,circle
+image_830.png,pentagon
+image_655.png,pentagon
+image_529.png,pentagon
+image_1134.png,square
+image_50.png,"circle, square"
+image_68.png,"circle, square"
+image_2017.png,square
+image_1371.png,square
+image_2271.png,square
+image_49.png,"square, triangle"
+image_1335.png,pentagon
+image_1682.png,pentagon
+image_839.png,hexagon
+image_2163.png,square
+image_125.png,"circle, hexagon"
+image_611.png,square
+image_1861.png,hexagon
+image_2333.png,triangle
+image_1513.png,square
+image_742.png,hexagon
+image_26.png,"circle, hexagon, square"
+image_2389.png,triangle
+image_1753.png,hexagon
+image_1534.png,square
+image_1816.png,pentagon
+image_1617.png,triangle
+image_1455.png,pentagon
+image_566.png,hexagon
+image_846.png,pentagon
+image_2490.png,circle
+image_1457.png,square
+image_362.png,"circle, hexagon, triangle"
+image_1566.png,hexagon
+image_2499.png,square
+image_2415.png,pentagon
+image_1835.png,triangle
+image_1785.png,hexagon
+image_431.png,"circle, triangle"
+image_2310.png,circle
+image_638.png,hexagon
+image_2188.png,pentagon
+image_652.png,pentagon
+image_241.png,"hexagon, pentagon"
+image_694.png,hexagon
+image_71.png,"circle, pentagon"
+image_2233.png,square
+image_651.png,triangle
+image_2019.png,hexagon
+image_74.png,"pentagon, triangle"
+image_1164.png,hexagon
+image_351.png,"circle, hexagon, triangle"
+image_2290.png,pentagon
+image_2169.png,triangle
+image_1099.png,pentagon
+image_1447.png,pentagon
+image_2329.png,hexagon
+image_77.png,pentagon
+image_433.png,"pentagon, square, triangle"
+image_2350.png,square
+image_1293.png,hexagon
+image_158.png,"circle, pentagon"
+image_1799.png,hexagon
+image_1406.png,circle
+image_2051.png,pentagon
+image_136.png,hexagon
+image_2138.png,square
+image_1929.png,circle
+image_1691.png,triangle
+image_868.png,circle
+image_1950.png,pentagon
+image_52.png,"pentagon, triangle"
+image_1901.png,square
+image_679.png,pentagon
+image_1504.png,circle
+image_290.png,"hexagon, triangle"
+image_2248.png,circle
+image_1421.png,circle
+image_1603.png,square
+image_533.png,pentagon
+image_480.png,"circle, pentagon"
+image_1404.png,circle
+image_1933.png,square
+image_292.png,"hexagon, pentagon, square"
+image_1722.png,pentagon
+image_1069.png,triangle
+image_1024.png,triangle
+image_2180.png,circle
+image_2228.png,circle
+image_706.png,square
+image_2035.png,pentagon
+image_407.png,triangle
+image_2100.png,triangle
+image_2024.png,triangle
+image_2409.png,square
+image_979.png,hexagon
+image_1746.png,circle
+image_1881.png,pentagon
+image_343.png,"circle, pentagon"
+image_1991.png,triangle
+image_2477.png,hexagon
+image_835.png,hexagon
+image_1453.png,square
+image_300.png,"circle, pentagon"
+image_1989.png,square
+image_2294.png,pentagon
+image_496.png,"pentagon, square"
+image_813.png,hexagon
+image_930.png,square
+image_1058.png,square
+image_1638.png,circle
+image_2456.png,circle
+image_221.png,circle
+image_2487.png,circle
+image_1660.png,triangle
+image_528.png,circle
+image_1487.png,pentagon
+image_2376.png,square
+image_1610.png,circle
+image_597.png,hexagon
+image_85.png,square
+image_2214.png,pentagon
